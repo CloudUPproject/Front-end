@@ -1,0 +1,24 @@
+.RewObj{
+   color: black;
+   background-color: #fff;
+   height: 20vh;
+   width: 30vw;
+   margin: 5vw 7vw ; 
+   border-radius: 10px;
+   padding: 2vh;
+   font-family: 'PT Serif', serif;
+   font-weight: 500;
+   font-size: 25px;
+   display: flex;
+   flex-direction: column;
+}
+
+.RewObj div.person{
+   display: flex;
+   align-items: center;
+   margin-bottom: 13px;
+}
+
+.RewObj img{
+   margin-right: 3vh;
+}

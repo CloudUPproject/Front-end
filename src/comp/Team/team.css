@@ -1,0 +1,53 @@
+.Team {
+   position: relative;
+   font-family: 'PT Serif', serif;
+}
+
+ul {
+   padding: 0;
+   margin: 0;
+}
+
+.Team h1 {
+   display: flex;
+   justify-content: center;
+   font-size: 6vh;
+   padding: 10px;
+   margin: 0;
+}
+
+.Team h2 {
+   margin: 0;
+   margin-top: 1vh;
+}
+
+.Team h3 {
+   padding-bottom: 2vh;
+   margin: 0;
+}
+
+.Team ul {
+   margin-left: 15px;
+   list-style-type: "✅";
+
+}
+
+.Team div.one {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 5vh 10vw;
+}
+
+.Team div.info {
+   height: 20vh;
+   width: 30vw;
+   border-left: 10px solid #000;
+   border-radius: 5%;
+   padding: 2vh 4vw;
+   background-color: #cacaca;
+}
+
+.Team img.photo {
+   border-radius: 50%;
+}
